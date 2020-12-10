@@ -32,10 +32,10 @@ pip install requests
 ## Output
 * Main Window which ask the name of the city to user
 
-![Main Window](https://github.com/sagarmude7/Pollution-Tracker/blob/main/Output/Nagpur.png)
+![Main Window](https://github.com/sagarmude7/Pollution-Tracker/blob/main/Output/Window.JPG)
 * Output window which show the distribution of pollutants in the air of the city
 
-![Nagpur](https://github.com/sagarmude7/Pollution-Tracker/blob/main/Output/Window.png)
+![Nagpur](https://github.com/sagarmude7/Pollution-Tracker/blob/main/Output/Nagpur.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
