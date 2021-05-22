@@ -57,7 +57,9 @@ def submit():  # Submit Function
     plt.figure(figsize=(8, 6))  # Size of the figure
     plt.pie(values, labels=pollutants, explode=explode, autopct='%1.1f%%', shadow=True)
 
-    plt.title('Air pollutants and their probable amount in atmosphere of {}'.format(city.upper()))  # Title of Pie-Chart
+
+
+    plt.title('Air pollutants and their probable amount in atmosphere of {} and the pollution level is {}'.format(city.upper(), level))  # Title of Pie-Chart
 
     plt.axis('equal')
     plt.show()  # Showing the Pie-Chart
